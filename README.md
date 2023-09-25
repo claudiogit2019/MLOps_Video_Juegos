@@ -121,7 +121,11 @@ La misma de podra probar en render.com
 
 Enlace de Render
 
+https://sistema-recomendacion-voideo-juego2023.onrender.com
+
 Enlace de Video
+
+https://drive.google.com/file/d/1uRObXiNxvlyWjD5LBFE9JqDxHEewPYkZ/view?usp=drive_link
 
 Enlace de Github
 
